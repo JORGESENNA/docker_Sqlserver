@@ -7,12 +7,7 @@ https://www.instagram.com/j.h.senna/
 #Linkedin
 https://www.linkedin.com/in/jorge-henrique-b32a5229/
 
-
-Creditos(Garagem do Código)
-https://www.youtube.com/watch?v=G18LUcEAkIc
 Como usar o SQL Server com o Docker?
-
-
 
 1- https://hub.docker.com/_/microsoft-mssql-server
 
