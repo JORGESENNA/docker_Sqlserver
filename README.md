@@ -1,3 +1,6 @@
+wsl --install
+
+
 # docker_Sqlserver
 Usando Docker  SQLServer 
 
